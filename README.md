@@ -2,6 +2,9 @@
 
 <img src="GS%20-%20Full%20Logo%20-%201024x768.png" height="400" alt="Gerald Soriano - Logo" align="center"/>  
 
+![top-langs](https://github-readme-stats.vercel.app/api/top-langs?username=sorianog&show_icons=true&theme=dark)
+![github stats](https://github-readme-stats.vercel.app/api?username=sorianog&show_icons=true&theme=dark)
+
 <!--
 **sorianog/sorianog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
