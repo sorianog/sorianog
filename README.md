@@ -1,10 +1,13 @@
 ### Aloha all! 🤙🏽
 
 <a href="https://www.linkedin.com/in/sorianog/">
-  <img align="left" alt="Gerald's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Gerald's LinkedIN" width="25px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <a href="https://twitter.com/gerosan">
-  <img align="left" alt="Gerald Soriano | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+  <img align="left" alt="Gerald's Twitter | Twitter" width="25px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+</a>
+<a href="https://g.dev/sorianog">
+  <img align="left" alt="Gerald's Google Dev Profile  | Twitter" width="25px" src="https://user-images.githubusercontent.com/13261711/147682748-153b9fd4-7fda-40cd-9f33-bc11c3ce5165.png" />
 </a>
 
 ![Gerald's Profile Visitor Count](https://visitor-badge.glitch.me/badge?page_id=sorianog.sorianog)
