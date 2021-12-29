@@ -1,4 +1,7 @@
-### Hi there 👋
+### Aloha all! 🤙🏽
+
+![Gerald Soriano - Logo](https://user-images.githubusercontent.com/13261711/147671870-308b581c-0a10-4146-9b14-c179ad02f719.png)
+
 
 <!--
 **sorianog/sorianog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
