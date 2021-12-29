@@ -1,5 +1,16 @@
 ### Aloha all! 🤙🏽
 
+<a href="https://www.linkedin.com/in/sorianog/">
+  <img align="left" alt="Gerald's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+<a href="https://twitter.com/gerosan">
+  <img align="left" alt="Gerald Soriano | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+</a>
+
+![Gerald's Profile Visitor Count](https://visitor-badge.glitch.me/badge?page_id=sorianog.sorianog)
+
+<br />
+
 <img src="GS%20-%20Full%20Logo%20-%201024x768.png" height="400" alt="Gerald Soriano - Logo" align="center"/>  
 
 ![top-langs](https://github-readme-stats.vercel.app/api/top-langs?username=sorianog&show_icons=true&theme=dark)
