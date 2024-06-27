@@ -1,20 +1,14 @@
 ### Aloha all! 🤙🏽
 
-<a href="https://www.linkedin.com/in/sorianog/">
-  <img align="left" alt="Gerald's LinkedIN" width="25px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-<a href="https://twitter.com/gerosan">
-  <img align="left" alt="Gerald's Twitter | Twitter" width="25px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
-<a href="https://g.dev/sorianog">
-  <img align="left" alt="Gerald's Google Dev Profile  | Twitter" width="25px" src="https://user-images.githubusercontent.com/13261711/147682748-153b9fd4-7fda-40cd-9f33-bc11c3ce5165.png" />
-</a>
+- https://www.linkedin.com/in/sorianog/
+- https://g.dev/sorianog
+- https://twitter.com/gerosan
 
 ![Gerald's Profile Visitor Count](https://visitor-badge.glitch.me/badge?page_id=sorianog.sorianog)
 
 <br />
 
-<img src="GS%20-%20Full%20Logo%20-%201024x768.png" height="400" alt="Gerald Soriano - Logo" align="center"/>  
+<img src="GS%20-%20Full%20Logo%20-%201024x768.png" height="300" alt="Gerald Soriano - Logo" align="center"/>  
 
 ![top-langs](https://github-readme-stats.vercel.app/api/top-langs?username=sorianog&show_icons=true&theme=dark)
 ![github stats](https://github-readme-stats.vercel.app/api?username=sorianog&show_icons=true&theme=dark)
