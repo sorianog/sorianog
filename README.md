@@ -2,13 +2,14 @@
 
 - https://www.linkedin.com/in/sorianog/
 - https://g.dev/sorianog
-- https://twitter.com/gerosan
 
 <br />
 
+<!--
 <img src="GS%20-%20Full%20Logo%20-%201024x768.png" height="300" alt="Gerald Soriano - Logo" align="center"/>  
+-->
 
-![top-langs](https://github-readme-stats.vercel.app/api/top-langs?username=sorianog&show_icons=true&theme=dark)
+![top-langs](https://github-readme-stats.vercel.app/api/top-langs?username=sorianog&show_icons=true&theme=dark&hide=python)
 ![github stats](https://github-readme-stats.vercel.app/api?username=sorianog&show_icons=true&theme=dark)
 
 <!--
