@@ -20,6 +20,9 @@ https://github.com/marketplace/actions/github-readme-stats-action
 ![github stats](https://github-readme-stats.vercel.app/api?username=sorianog&show_icons=true&theme=dark)
 -->
 
+![Stats](./profile/stats.svg)
+![Top Languages](./profile/top-langs.svg)
+
 <!--
 **sorianog/sorianog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
